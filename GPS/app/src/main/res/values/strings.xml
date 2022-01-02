@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonStartRoute">Find Route</string>
+    <string name="buttonEndRoute">End</string>
+</resources>
